@@ -1,0 +1,1 @@
+# Haiku Generator project for GHA Foundations
